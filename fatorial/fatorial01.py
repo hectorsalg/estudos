@@ -1,6 +1,3 @@
-from re import I
-
-
 num = int(input('Digite um número: '))
 numaux = num
 aux = 1
