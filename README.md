@@ -1,2 +1,2 @@
-# Arquivos de de python para estudo
-Atividades de introdução a python.
+# Arquivos de linguagens de programação para estudo.
+Atividades de introdução a python, JavaScript e C.
